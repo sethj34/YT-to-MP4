@@ -1,7 +1,3 @@
-Please view this file in fullscreen:
-
-**************************************************************************************************************************************************************************
-
 Copyright © 2024 Seth Jayakody
 
 The purpose of this project (description):
